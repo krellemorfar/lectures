@@ -9,6 +9,7 @@ namespace Lectures
     {
         public static void Main(string[] args)
         {
+            
         }
     }
 }
